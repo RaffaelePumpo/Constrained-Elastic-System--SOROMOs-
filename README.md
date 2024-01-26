@@ -2,8 +2,10 @@
 In the third lab session of the SOROMO course, our focus was on the analysis of constrained elastic systems. The session involved the exploration of two distinct prototypes, each showcasing the intricate dynamics of soft robotics: the elastic slider-crank and a continuum parallel robot.
 
 ## Prototypes Overview
-1. **Continuum Parallel Robot** ![Continuum Parallel Robot](parallel-image.png) : A parallel architecture with closed kinematic chains.
-2. **Elastic Slider-Crank** ![Elastic Slider-Crank](serial-image.png) : Featuring a rod between a revolute and a prismatic joint.
+1. **Continuum Parallel Robot:** A parallel architecture with closed kinematic chains.
+     ![Continuum Parallel Robot](parallel-image.png)
+2. **Elastic Slider-Crank:** Featuring a rod between a revolute and a prismatic joint.
+ ![Elastic Slider-Crank](serial-image.png)
 
 ## Background
 We improved our understanding of the modelization of Cosserat rods using the Shooting method and Strain-Based Parameterization (SBP), the current lab focused on the static modeling of parallel architectures with elastic components.
